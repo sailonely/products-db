@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "id": "1",
+      "id": 1,
       "title": "Modern Shell Chair",
       "price": 208.00,
       "image": { 
@@ -12,7 +12,7 @@
       }
     },
     {
-      "id": "2",
+      "id": 2,
       "title": "Pendant Lamp",
       "price": 89.00,
       "image": { 
@@ -21,6 +21,226 @@
           "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-pendant-lamp-2-450x558.jpg"
         ] 
       }
-    }
+    },
+    {
+      "id": 3,
+      "title": "Lighthouse Lantern",
+      "price": 69.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-lighthouse-lantern-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-lighthouse-lantern-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 4,
+      "title": "Wall Clock",
+      "price": 79.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-wall-clock-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-wall-clock-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 5,
+      "title": "Hans Backpack",
+      "price": 79.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-hans-backpack-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-hans-backpack-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 6,
+      "title": "Specs Sunglasses",
+      "price": 109.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-specs-sunglasses-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-specs-sunglasses-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 7,
+      "title": "Press Coffee Maker",
+      "price": 39.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-press-coffee-maker-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-press-coffee-maker-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 8,
+      "title": "Door Bumper",
+      "price": 29.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-door-bumper-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-door-stop-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 9,
+      "title": "Laptop Bag",
+      "price": 19.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-laptop-bag-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-laptop-bag-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 10,
+      "title": "Plain Glass Bottle",
+      "price": 12.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-plain-glassbottle-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-plain-glassbottle-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 11,
+      "title": "Ceramic Tealight Holder",
+      "price": 28.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-ceramic-tealight-holder-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-ceramic-tealight-holder-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 12,
+      "title": "Canvas Basket",
+      "price": 39.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-canvas-basket-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-canvas-basket-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 13,
+      "title": "Amber Body Lotion",
+      "price": 12.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-amber-body-lotion-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-lily-body-lotion-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 14,
+      "title": "Havana Sunglasses",
+      "price": 89.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-havana-sunglasses-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-havana-sunglasses-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 15,
+      "title": "Henry Backpack",
+      "price": 79.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-henry-backpack-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-henry-backpack-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 16,
+      "title": "Striped Canvas Bag",
+      "price": 29.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-striped-canvas-bag-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-striped-canvas-bag-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 17,
+      "title": "Round Tray Table",
+      "price": 79.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-round-tray-table-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-round-tray-table-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 18,
+      "title": "Ceramic Watch",
+      "price": 259.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-ceramic-watch-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-ceramic-watch-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 19,
+      "title": "Magazine Basket",
+      "price": 28.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-magazine-basket-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-magazine-basket-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 20,
+      "title": "Thermo Flask",
+      "price": 79.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-thermo-flask-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-thermo-flask-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 21,
+      "title": "Gold Motif Vase",
+      "price": 79.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-gold-pattern-vase-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-gold-motif-vase-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": 22,
+      "title": "Leather Wash Bag",
+      "price": 79.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-leather-wash-bag-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-leather-wash-bag-2-450x558.jpg"
+        ] 
+      }
+    } 
   ]
 }
