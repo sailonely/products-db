@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Modern Shell Chair",
+      "price": 208.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/product-classic-chair-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/product-classic-chair-2-450x558.jpg"
+        ] 
+      }
+    },
+    {
+      "id": "2",
+      "title": "Pendant Lamp",
+      "price": 89.00,
+      "image": { 
+        "url": [
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-pendant-lamp-450x558.jpg", 
+          "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-pendant-lamp-2-450x558.jpg"
+        ] 
+      }
+    }
+  ]
+}
