@@ -307,6 +307,34 @@
           "https://raw.githubusercontent.com/sailonely/products-db/main/products/product-leather-wash-bag-2-450x558.jpg"
         ] 
       }
-    } 
+    }, 
+    {
+			"id": 23,
+			"title": "Bathroom Set",
+			"price": 29.0,
+			"filter": {
+				"category": "interior"
+			},
+			"image": {
+				"url": [
+					"https://raw.githubusercontent.com/sailonely/products-db/main/products/product-bathroom-set-450x558.jpg",
+					"https://raw.githubusercontent.com/sailonely/products-db/main/products/product-bathroom-set-2-450x558.jpg"
+				]
+			}
+		},
+		{
+			"id": 24,
+			"title": "Knit Stripe Bag",
+			"price": 29.0,
+			"filter": {
+				"category": "bags-backpacks"
+			},
+			"image": {
+				"url": [
+					"https://raw.githubusercontent.com/sailonely/products-db/main/products/product-marine-stripe-bag-450x558.jpg",
+					"https://raw.githubusercontent.com/sailonely/products-db/main/products/product-marine-stripe-bag-2-450x558.jpg"
+				]
+			}
+		}
   ]
 }
